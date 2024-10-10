@@ -1,0 +1,17 @@
+/* Navbar.css */
+ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+  }
+  
+  a {
+    text-decoration: none;
+    color: black;  /* Default color for links */
+  }
+  
+  .active-link {
+    font-weight: bold;
+    color: blue;  /* Change color when the link is active */
+  }
+  
